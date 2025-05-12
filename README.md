@@ -35,7 +35,7 @@ O processo passa pelas seguintes etapas:
 4. Emissão automática de NF se aplicável.
 5. Notificação aos responsáveis e auditoria de fim de processo.
 
-![Fluxo de processo](![image](https://github.com/user-attachments/assets/68b9f451-9fbc-4449-8399-4410e23c6a64)) <!-- Substituir pelo link correto da imagem no repositório -->
+![image](https://github.com/user-attachments/assets/68b9f451-9fbc-4449-8399-4410e23c6a64)
 
 ---
 
